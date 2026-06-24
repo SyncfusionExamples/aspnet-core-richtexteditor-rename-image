@@ -28,3 +28,5 @@ This project demonstrates image upload handling with automatic file renaming in 
 - Syncfusion RichTextEditor integration
 - Custom HTTP header response for renamed filenames
 - Dynamic uploads directory creation
+
+>Looking for the full ASP.NET Core Rich Text Editor component overview, features, pricing, and documentation? Visit the [ASP.NET Core Rich Text Editor](https://www.syncfusion.com/aspnet-core-ui-controls/wysiwyg-rich-text-editor) page.
